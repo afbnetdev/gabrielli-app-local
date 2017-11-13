@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Gabrielli v1 beta</name>
+    <name>Gabrielli v1 beta - local version</name>
     <description>
-        Gabrielli App v.1
+        Gabrielli App v.1 - local version
     </description>
-    <author email="l.lombardi@afbnet.it" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="l.lombardi@afbnet.it" href="http://www.afbnet.it">
+        Var Group
     </author>
     <icon src="img/logo-gabrielli-gruppo.jpg" />
     <content src="index.html" />
